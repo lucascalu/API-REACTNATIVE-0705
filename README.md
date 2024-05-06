@@ -35,3 +35,6 @@
   npx expo start  --tunnel
 </pre>
 
+<pre> 
+  desafio : com o node red faça que o arquivo json insira os dados em um banco de dados mysql a cada 1 minuto
+</pre>
