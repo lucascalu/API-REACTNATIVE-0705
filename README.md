@@ -13,6 +13,7 @@
 <pre>
 
   expo init MeuAppReactNative
+  npx create-expo-app nomedoApp
 
 </pre>
 <pre>
